@@ -25,7 +25,7 @@ public class App extends JFrame {
     private JPanel title;
 
     public App(){
-        setTitle("view.NameLearning");
+        setTitle("Namen-Lernsystem");
         getContentPane().setBackground(new Color(40,45,88));
         setSize(800,800);
 

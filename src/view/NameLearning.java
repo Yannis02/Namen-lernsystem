@@ -67,6 +67,7 @@ public class NameLearning {
             getContentPane().setBackground(new Color(50, 50, 50));
             setLayout(null);
             setResizable(false);
+            setTitle("Namen-Lernsystem");
 
             Font buttonFont = new Font("Arial", Font.BOLD, 30);
             textField.setBounds(0, 0, 1000, 50);
